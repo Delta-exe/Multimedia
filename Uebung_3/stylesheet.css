@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+
+#box1{
+    width: 400px;
+    margin: 10px;
+    padding: 5px 40px;
+    Border: black 2px solid ;
+    border-radius: 10px;
+}
+#box2{
+    width: 400px;
+    margin: 10px;
+    padding: 10px 40px;
+    border-left: red 10px double;
+    border-right: red 10px double;
+
+}
+#box3{
+    background: yellow;
+    border: 3px gold dotted;
+    margin: 10px;
+    padding: 10px;
+
+}
